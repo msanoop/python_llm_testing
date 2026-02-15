@@ -1,0 +1,25 @@
+# Task: Study Python for LLM Testing
+
+- [x] Project Setup & Planning
+    - [x] Create project directory
+    - [x] Initialize implementation plan
+- [ ] Module 0: Python Basics [/]
+    - [x] Variables and Data Types
+    - [x] Control Flow (If/Else, Loops)
+    - [/] Functions and Scope
+    - [ ] Functions and Scope
+    - [ ] Basic Data Structures (Lists, Dicts)
+- [ ] Module 1: Python for Automation & Testing
+    - [ ] Advanced Python data structures (Dicts, Lists, Sets)
+    - [ ] `pytest` framework basics
+    - [ ] Mocking and Fixtures
+- [ ] Module 2: Interacting with LLMs
+    - [ ] Understanding APIs (OpenAI, Google)
+    - [ ] Async programming in Python for LLM calls
+    - [ ] Basic prompt engineering for testing
+- [ ] Module 3: LLM Evaluation & Testing Frameworks
+    - [ ] Introduction to RAGAS, DeepEval, or G-Eval
+    - [ ] Evaluating hallucination, relevance, and safety
+    - [ ] Automated prompt evaluation
+- [ ] Module 4: Final Project
+    - [ ] Build a test suite for a sample LLM application
