@@ -17,6 +17,7 @@ print(status)
 
 response = "Hello, how are you?"
 response_length = len(response)
+print(response)
 print(f"The response is {response_length} characters long.")
 print(f"The response is {response_length} characters long.")
 
